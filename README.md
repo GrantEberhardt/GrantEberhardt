@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! 👋 I'm Grant. I'm currently in my last semester of studying Information Technology and Cybersecurity. I'm still learning the ropes of GitHub at the moment. I will add more to this later!
 
 <!--
 **GrantEberhardt/GrantEberhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
