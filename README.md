@@ -1,6 +1,6 @@
-
-### Hi! 👋 I'm Grant. I'm currently in my last semester of studying Information Technology and Cybersecurity. I'm still learning the ropes of GitHub at the moment. I will add more to this later!
 ![IMG_9891](https://github.com/GrantEberhardt/GrantEberhardt/assets/157420033/0ddf9ae8-5ffb-4c67-95ed-e9c1b95d8a4c)![IMG_2071](https://github.com/GrantEberhardt/GrantEberhardt/assets/157420033/f2986699-8866-4ad0-982e-43dfa10f3503)
+### Hi! 👋 I'm Grant. I'm currently in my last semester of studying Information Technology and Cybersecurity. I'm still learning the ropes of GitHub at the moment. I will add more to this later!
+
 
 
 <!--
